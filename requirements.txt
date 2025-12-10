@@ -5,5 +5,4 @@ langchain
 chromadb
 sentence-transformers
 transformers
-torch
 langchain
